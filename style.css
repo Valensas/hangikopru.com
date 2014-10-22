@@ -181,8 +181,11 @@ span{
 
 
 .storebadge {
-	margin-left: 118px;
+	margin-left: 24px;
 	margin-top: 10px;
+	margin-right: 10px;
+	float: left;
+	width: 222px;
  }
 
 /* FOOTER */
@@ -194,11 +197,14 @@ span{
 
 .foobar a:hover {color: #fff;}
 
+.playstore {float: left;
+margin-top: 8px;
+width: 222px;}
 
 .cpy {
 	font-size: 14px;
 	color: #C7DBFF;
-	margin-top: 48px;
+	margin-top: 38px;
 	opacity: 0.9;
 	font-family: "hnlt";
 	height: 50px;
@@ -210,14 +216,14 @@ span{
 
 .foobar {
 	float: right;
-	margin: 28px 140px 10px 10px;
+	margin: 0px 140px 10px 10px;
 		}
 
 ul {
-	float: right;
-	width: 100px;
-	margin-right: -20px;
-	margin-top: 42px;
+float: right;
+width: 100px;
+margin-right: -20px;
+margin-top: 32px;
  }
 
 ul li {float: left;
